@@ -1,6 +1,6 @@
 ## jychen0611
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jychen0611)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jychen0611&show_icons=true&theme=aura)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jychen0611)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jychen0611/jychen0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
